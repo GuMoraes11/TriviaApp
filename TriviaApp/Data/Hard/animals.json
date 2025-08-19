@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What came first, the chicken or the egg?",
+    "options": {
+      "A": "Chicken",
+      "B": "Egg",
+      "C": "Neither",
+      "D": "This is a paradoxical question you fuck, I won't have it"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What sound does a hippopotamus make?",
+    "options": {
+      "A": "Trumpeting bellows",
+      "B": "Rubbery grunts",
+      "C": "Wheezy breathing sounds",
+      "D": "Charismatic squeals"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which sea creature can choose its own gender?",
+    "options": {
+      "A": "Humans",
+      "B": "Clams",
+      "C": "Oyster",
+      "D": "Pig"
+    },
+    "answer": "C"
+  }
+]
