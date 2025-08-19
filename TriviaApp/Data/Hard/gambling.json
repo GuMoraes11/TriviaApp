@@ -1,0 +1,62 @@
+﻿[
+  {
+    "question": "You bet $50 on red at roulette, then double down on black, then split your chips with a ghost dealer who insists dice are involved. What color did you actually bet on?",
+    "options": {
+      "A": "Red",
+      "B": "Black",
+      "C": "Ghost",
+      "D": "Double red ghost dice"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How often should you hit on a soft 17 while blindfolded in a room full of slot machines screaming your mother’s maiden name?",
+    "options": {
+      "A": "Very often",
+      "B": "Somewhat often",
+      "C": "Somewhat rarely",
+      "D": "Very rarely"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "A poker hand is dealt with 3 kings, 2 queens, and one unpaid bar tab. What do you call that hand?",
+    "options": {
+      "A": "Full house",
+      "B": "Overdrawn bluff",
+      "C": "Royal flush if you squint",
+      "D": "Bartender wins"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is the proper punishment for counting cards in Uno at a Vegas blackjack table?",
+    "options": {
+      "A": "Thrown into the fountain",
+      "B": "Lifetime supply of reverse cards",
+      "C": "Banned but still billed for parking",
+      "D": "Hehe. PUNishment."
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Before you lost the shirt off your back, what came before the madness below the craps table?",
+    "options": {
+      "A": "$0.02",
+      "B": "Your last shred of dignity",
+      "C": "A second shred of dignity",
+      "D": "House always wins"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is the maximum payout velocity of an unladen slot machine when threatened with a Monty Hall problem?",
+    "options": {
+      "A": "Pick Door #2",
+      "B": "Seven.",
+      "C": "Snakes and Ladders",
+      "D": "Saturday eve jackpot"
+    },
+    "answer": "B"
+  }
+]
