@@ -58,5 +58,39 @@
       "D": "Saturday eve jackpot"
     },
     "answer": "B"
-  }
-]
+  },
+  
+  
+    
+    {
+      "question": "Is a hot dog a sandwich?",
+      "options": {
+        "A": "Yes",
+        "B": "No",
+        "C": "It’s an experience, not a food",
+        "D": "Only on Thursdays"
+      },
+      "answer": "C"
+    },
+    {
+      "question": "If you think, do you exist?",
+      "options": {
+        "A": "Yes, I think so",
+        "B": "No, I’m just vibes",
+        "C": "Who’s asking?",
+        "D": "Only when I pay rent"
+      },
+      "answer": "A"
+    },
+    {
+      "question": "What’s the meaning of life?",
+      "options": {
+        "A": "42",
+        "B": "Whatever you make of it",
+        "C": "Life has no meaning, only seasoning",
+        "D": "Ask my cat"
+      },
+      "answer": "A"
+    }
+  ]
+

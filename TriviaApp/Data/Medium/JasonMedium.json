@@ -1,0 +1,32 @@
+﻿[
+{
+  "question": "Which came first, the chicken or the egg?",
+  "options": {
+    "A": "Chicken",
+    "B": "Egg",
+    "C": "Whichever one paid for dinner",
+    "D": "The Omelette"
+  },
+  "answer": "D"
+},
+{
+"question": "Is water wet?",
+"options": {
+"A": "Yes",
+"B": "No",
+"C": "Water is the concept of wet",
+"D": "Ask Poseidon"
+},
+"answer": "C"
+},
+{
+"question": "If Sisyphus is happy rolling the boulder, is it still punishment?",
+"options": {
+"A": "Yes",
+"B": "No",
+"C": "It’s now a gym membership",
+"D": "Ask the boulder"
+},
+"answer": "C"
+}
+]

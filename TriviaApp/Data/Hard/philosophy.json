@@ -1,0 +1,31 @@
+﻿[{
+  "question": "If free will exists, why did I eat that entire cake last night?",
+  "options": {
+    "A": "I chose to",
+    "B": "Destiny",
+    "C": "Cake chose me",
+    "D": "What did will do?"
+  },
+  "answer": "C"
+},
+  {
+    "question": "Can nothing exist?",
+    "options": {
+      "A": "Yes",
+      "B": "No",
+      "C": "It already booked a vacation",
+      "D": "Schrödinger’s maybe"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "If everyone is special, is anyone special?",
+    "options": {
+      "A": "Yes",
+      "B": "No",
+      "C": "Everyone gets a trophy",
+      "D": "Only my mom says I am"
+    },
+    "answer": "C"
+  }
+]
