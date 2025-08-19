@@ -1,0 +1,242 @@
+[
+  {
+    "question": "Who/What dubbed themselves \u201cMechahitler\u201d?",
+    "options": {
+      "A": "Elon Musk",
+      "B": "Grok",
+      "C": "A member of Congress",
+      "D": "Joe Rogan"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What\u2019s the name of the 2023 video game where you spend 90% of your time asking NPCs to \u201crepeat the quest instructions\u201d while trying not to die?",
+    "options": {
+      "A": "Baldur\u2019s Gate 3",
+      "B": "Baldur\u2019s Gate 2",
+      "C": "Oblivion",
+      "D": "Elden Ring"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who Dubbed the \u201cRizz Face\u201d?",
+    "options": {
+      "A": "Big Justice",
+      "B": "Baby Gronk",
+      "C": "The Rizzler",
+      "D": "What the fuck are you talking about"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What this animal is?\n                  __\n                  /  \\\n                 / ..|\\\n                (_\\  |_)\n                /  \\@'\n               /     \\\n              /  `   |\n             /  / |  |\n            /  /  |  |\n           /_/    |  |\n           \\\\     |  |\n            \\\\    |  |\n             \\\\   |  |\n              \\\\  |  |\n               \\\\ |  |\n                \\\\|  |\n                 `|  |\n                  |  |\n                  |  |\n                  |  |\n                 _|  |_\n                /_/\\_/\\_\n                   /__\\\n",
+    "options": {
+      "A": "Dog",
+      "B": "Ostrich",
+      "C": "Parrot",
+      "D": "I don't fucking know what that is"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How many utters do cows?",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "Teats",
+      "D": "0, utters are fake"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "John has 28 hamsters, 12 bats, and 50 frogs. He decides to give half of his frogs to Globby, but only 1/15th of his hamsters. How many snakes does Diego have?",
+    "options": {
+      "A": "0",
+      "B": "207",
+      "C": "3",
+      "D": "2"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Two trains are moving towards each other. One train moves at a speed of 50 mph, and the other train travels at 70 mph. How soon will they meet if originally the distance between them was 390 miles?",
+    "options": {
+      "A": "yes",
+      "B": "no",
+      "C": "maybe",
+      "D": "why"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?",
+    "options": {
+      "A": "Very often",
+      "B": "Somewhat often",
+      "C": "Somewhat rarely",
+      "D": "Very rarely"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How many colors of crayons are made by Crayola\u00ae?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is the proper punishment for making puns?",
+    "options": {
+      "A": "Death",
+      "B": "Death",
+      "C": "Death",
+      "D": "Hehe. PUNishment."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What came before the madness below?",
+    "options": {
+      "A": "$0.02",
+      "B": "A bagel",
+      "C": "A second bagel",
+      "D": "A"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "what is the airspeed velocity of an unladen swallow",
+    "options": {
+      "A": "Simon says...",
+      "B": "Seven.",
+      "C": "Snakes and Ladders",
+      "D": "Saturday eve"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which came first, the chicken or the egg?",
+    "options": {
+      "A": "Chicken",
+      "B": "Egg",
+      "C": "Whichever one paid for dinner",
+      "D": "The Omelette"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Is water wet?",
+    "options": {
+      "A": "Yes",
+      "B": "No",
+      "C": "Water is the concept of wet",
+      "D": "Ask Poseidon"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "If Sisyphus is happy rolling the boulder, is it still punishment?",
+    "options": {
+      "A": "Yes",
+      "B": "No",
+      "C": "It\u2019s now a gym membership",
+      "D": "Ask the boulder"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What has an eye but cannot see?",
+    "options": {
+      "A": "A needle",
+      "B": "The Blind",
+      "C": "A and B",
+      "D": "B"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is full of holes but still holds water?",
+    "options": {
+      "A": "A Boat",
+      "B": "A sponge",
+      "C": "skin",
+      "D": "A Plant"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is so fragile that saying its name breaks it?",
+    "options": {
+      "A": "Rocks",
+      "B": "Glass",
+      "C": "Peace",
+      "D": "Silence"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What did I do?",
+    "options": {
+      "A": "I don't know",
+      "B": "Nothing",
+      "C": "Your mom",
+      "D": "Stuff"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why am I here?",
+    "options": {
+      "A": "I don\u2019t know",
+      "B": "You just are",
+      "C": "Why am I here?",
+      "D": "?"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is my name",
+    "options": {
+      "A": "Henry",
+      "B": "",
+      "C": "Jenna",
+      "D": "Sam"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Which is bigger: Earth or Moon?",
+    "options": {
+      "A": "Earth",
+      "B": "Moon",
+      "C": "Solar",
+      "D": "Mercury"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What gas does a human need to breathe to survive?",
+    "options": {
+      "A": "Nitrogen",
+      "B": "Helium",
+      "C": "Oxygen",
+      "D": "Hydrogen"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Sales Tax Rates in Orange County",
+    "options": {
+      "A": "7.75%",
+      "B": "8.75$",
+      "C": "9.75%",
+      "D": "10.75%"
+    },
+    "answer": "A"
+  }
+]
