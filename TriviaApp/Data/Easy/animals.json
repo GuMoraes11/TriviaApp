@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Dogs or Cats?",
+    "options": {
+      "A": "Dogs",
+      "B": "Cat",
+      "C": "Cow",
+      "D": "Chicken"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Where does chocolate milk come from?",
+    "options": {
+      "A": "Milk",
+      "B": "Chocolate Cows",
+      "C": "Brown Cows",
+      "D": "A color that is a darker shade of orange-cows"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How many eggs does the average reptilian lay?",
+    "options": {
+      "A": "1",
+      "B": "50",
+      "C": "75",
+      "D": "Chicken Egg"
+    },
+    "answer": "D"
+  }
+]

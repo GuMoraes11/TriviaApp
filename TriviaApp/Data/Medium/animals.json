@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What this animal is?\n                  __\n                  /  \\\n                 / ..|\\\n                (_\\  |_)\n                /  \\@'\n               /     \\\n              /  `   |\n             /  / |  |\n            /  /  |  |\n           /_/    |  |\n           \\\\     |  |\n            \\\\    |  |\n             \\\\   |  |\n              \\\\  |  |\n               \\\\ |  |\n                \\\\|  |\n                 `|  |\n                  |  |\n                  |  |\n                  |  |\n                 _|  |_\n                /_/\\_/\\_\n                   /__\\\n",
+    "options": {
+      "A": "Dog",
+      "B": "Ostrich",
+      "C": "Parrot",
+      "D": "I don't fucking know what that is"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "How many utters do cows?",
+    "options": {
+      "A": "1",
+      "B": "4",
+      "C": "Teats",
+      "D": "0, utters are fake"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "John has 28 hamsters, 12 bats, and 50 frogs. He decides to give half of his frogs to Globby, but only 1/15th of his hamsters. How many snakes does Diego have?",
+    "options": {
+      "A": "0",
+      "B": "207",
+      "C": "3",
+      "D": "2"
+    },
+    "answer": "A"
+  }
+]
