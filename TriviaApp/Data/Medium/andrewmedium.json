@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Who/What dubbed themselves “Mechahitler”?",
+    "options": {
+      "A": "Elon Musk",
+      "B": "Grok",
+      "C": "A member of Congress",
+      "D": "Joe Rogan"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What’s the name of the 2023 video game where you spend 90% of your time asking NPCs to “repeat the quest instructions” while trying not to die?",
+    "options": {
+      "A": "Baldur’s Gate 3",
+      "B": "Baldur’s Gate 2",
+      "C": "Oblivion",
+      "D": "Elden Ring"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who Dubbed the “Rizz Face”?",
+    "options": {
+      "A": "Big Justice",
+      "B": "Baby Gronk",
+      "C": "The Rizzler",
+      "D": "What the fuck are you talking about"
+    },
+    "answer": "C"
+  }
+]
