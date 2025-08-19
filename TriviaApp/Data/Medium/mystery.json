@@ -1,0 +1,32 @@
+﻿[
+  {
+    "question": "What did I do?",
+    "options": {
+      "A": "I don't know",
+      "B": "Nothing",
+      "C": "Your mom",
+      "D": "Stuff"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Why am I here?",
+    "options": {
+      "A": "I don’t know",
+      "B": "You just are",
+      "C": "Why am I here?",
+      "D": "?"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is my name",
+    "options": {
+      "A": "Henry",
+      "B": "",
+      "C": "Jenna",
+      "D": "Sam"
+    },
+    "answer": "B"
+  }
+]

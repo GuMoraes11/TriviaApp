@@ -1,0 +1,32 @@
+﻿[
+  {
+    "question": "Was JFK an inside job?",
+    "options": {
+      "A": "Yes",
+      "B": "No",
+      "C": "Maybe",
+      "D": "It was me"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "Where did my keys go?",
+    "options": {
+      "A": "I don’t know",
+      "B": "In your pocket",
+      "C": "In my tummy",
+      "D": "I know"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Are you my real dad?",
+    "options": {
+      "A": "No",
+      "B": "Hell no",
+      "C": "No (lie)",
+      "D": "Ask your mother"
+    },
+    "answer": "C"
+  }
+]

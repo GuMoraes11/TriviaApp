@@ -1,0 +1,32 @@
+﻿[
+  {
+    "question": "Where am I?",
+    "options": {
+      "A": "Here",
+      "B": "There",
+      "C": "Nowhere",
+      "D": "Where?"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who am I?",
+    "options": {
+      "A": "You",
+      "B": "Me",
+      "C": "Them",
+      "D": "Thing"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "Why am I asking you questions?",
+    "options": {
+      "A": "I don't know",
+      "B": "Just cause",
+      "C": "YOu have to",
+      "D": "Because It told you to"
+    },
+    "answer": "D"
+  }
+]
