@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What has an eye but cannot see?",
+    "options": {
+      "A": "A needle",
+      "B": "The Blind",
+      "C": "A and B",
+      "D": "B"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What is full of holes but still holds water?",
+    "options": {
+      "A": "A Boat",
+      "B": "A sponge",
+      "C": "skin",
+      "D": "A Plant"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What is so fragile that saying its name breaks it?",
+    "options": {
+      "A": "Rocks",
+      "B": "Glass",
+      "C": "Peace",
+      "D": "Silence"
+    },
+    "answer": "D"
+  }
+]

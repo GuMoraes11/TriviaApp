@@ -1,0 +1,33 @@
+[
+  {
+    "question": "What is the shape of Earth?",
+    "options": {
+      "A": "Cubic",
+      "B": "Flat",
+      "C": "Spherical",
+      "D": "Diamond"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Which color represents the “go” in the traffic light?",
+    "options": {
+      "A": "Red",
+      "B": "Yellow",
+      "C": "Green",
+      "D": "When no cars are around"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "How many minutes are in on hour?",
+    "options": {
+      "A": "3600 seconds",
+      "B": "60 minutes",
+      "C": "0.0416 days",
+      "D": "0.00595 weeks"
+    },
+    "answer": "B"
+  }
+]
+

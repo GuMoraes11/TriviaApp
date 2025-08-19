@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which is bigger: Earth or Moon?",
+    "options": {
+      "A": "Earth",
+      "B": "Moon",
+      "C": "Solar",
+      "D": "Mercury"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "What gas does a human need to breathe to survive?",
+    "options": {
+      "A": "Nitrogen",
+      "B": "Helium",
+      "C": "Oxygen",
+      "D": "Hydrogen"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Sales Tax Rates in Orange County",
+    "options": {
+      "A": "7.75%",
+      "B": "8.75$",
+      "C": "9.75%",
+      "D": "10.75%"
+    },
+    "answer": "A"
+  }
+]

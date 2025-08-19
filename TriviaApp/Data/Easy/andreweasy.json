@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is Kanye doing?",
+    "options": {
+      "A": "Something Racist",
+      "B": "Something Obscene",
+      "C": "Something Homophobic",
+      "D": "All of the Above and more"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is the name of the app Meta made to replace Twitter, but somehow became just “racist twitter”?",
+    "options": {
+      "A": "Tumblr",
+      "B": "Facebook",
+      "C": "X",
+      "D": "Steam Community Forums"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Chris Pratt voiced Mario in The Super Mario Bros. Movie. What accent did he choose?",
+    "options": {
+      "A": "German Accent",
+      "B": "Italian Accent",
+      "C": "Spanish Accent",
+      "D": "New York Accent"
+    },
+    "answer": "D"
+  }
+]

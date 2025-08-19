@@ -1,0 +1,33 @@
+[
+  {
+    "question": "Which side do you stand?",
+    "options": {
+      "A": "Left",
+      "B": "Right",
+      "C": "Human",
+      "D": "D"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What comes after “B” in the alphabet?",
+    "options": {
+      "A": "D",
+      "B": "C",
+      "C": "A",
+      "D": "B"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "Who is the “GOAT” in NBA history?",
+    "options": {
+      "A": "Lebron",
+      "B": "Kobe",
+      "C": "MJ",
+      "D": "Joey Chesnut"
+    },
+    "answer": "D"
+  }
+]
+

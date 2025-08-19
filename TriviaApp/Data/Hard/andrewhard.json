@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What guy known as “The Fortnite Guy” held an event that caused the loss of 10 innocent lives?",
+    "options": {
+      "A": "Travis Scott",
+      "B": "Marshmellow",
+      "C": "Bad Bunny",
+      "D": "Playboi Carti"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Who won Album of the Year at the 2024 Grammys, prompting half the internet to post “we already knew” memes within 4 seconds?",
+    "options": {
+      "A": "Beyonce",
+      "B": "Taylor Swift",
+      "C": "Beyonce",
+      "D": "Taylor swift again because its one of those 2 they never pick anyone else"
+    },
+    "answer": "C"
+  },
+  {
+    "question": "What was the summer of 2024 nicknamed?",
+    "options": {
+      "A": "Hot girl summer - Meghan thee stallion",
+      "B": "brat summer - Charli xcx",
+      "C": "the summer of 2024 what are you talking about",
+      "D": "white boy summer - some random meme"
+    },
+    "answer": "D"
+  }
+]
