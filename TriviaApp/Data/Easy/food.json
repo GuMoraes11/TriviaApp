@@ -1,0 +1,62 @@
+[
+  {
+    "question": "Two trains are moving towards each other. One train moves at a speed of 50 mph, and the other train travels at 70 mph. How soon will they meet if originally the distance between them was 390 miles?",
+    "options": {
+      "A": "yes",
+      "B": "no",
+      "C": "maybe",
+      "D": "why"
+    },
+    "answer": "B"
+  },
+  {
+    "question": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n?",
+    "options": {
+      "A": "Very often",
+      "B": "Somewhat often",
+      "C": "Somewhat rarely",
+      "D": "Very rarely"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "How many colors of crayons are made by Crayola®?",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "answer": "D"
+  },
+  {
+    "question": "What is the proper punishment for making puns?",
+    "options": {
+      "A": "Death",
+      "B": "Death",
+      "C": "Death",
+      "D": "Hehe. PUNishment."
+    },
+    "answer": "B"
+  },
+  {
+    "question": "What came before the madness below?",
+    "options": {
+      "A": "$0.02",
+      "B": "A bagel",
+      "C": "A second bagel",
+      "D": "A"
+    },
+    "answer": "D"
+  },
+  {
+    "question": "what is the airspeed velocity of an unladen swallow",
+    "options": {
+      "A": "Simon says...",
+      "B": "Seven.",
+      "C": "Snakes and Ladders",
+      "D": "Saturday eve"
+    },
+    "answer": "C"
+  }
+]
