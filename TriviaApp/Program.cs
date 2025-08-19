@@ -1,9 +1,14 @@
 ﻿namespace TriviaApp;
+using System;
 
-class Program
+namespace TriviaGame
 {
-    static void Main(string[] args)
+    internal static class Program
     {
-        Console.WriteLine("Hello, World!");
+        private static void Main(string[] args)
+        {
+            var engine = new GameEngine();
+            engine.StartGame();
+        }
     }
 }
