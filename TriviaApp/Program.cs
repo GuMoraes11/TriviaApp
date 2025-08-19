@@ -1,6 +1,4 @@
-﻿namespace TriviaApp;
-using System;
-
+﻿using System;
 namespace TriviaGame
 {
     internal static class Program
